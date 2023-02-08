@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a co-op game which involves two players, or siblings, who are tasked to grow several seeds inherited from their late grandfather. The game employs a client-server architecture which can either be played in singleplayer or co-op with fully synchronized animations and states across both clients.
+This is a co-op game which involves two players, or siblings, who are tasked to grow several seeds inherited from their late grandfather. The game employs a client-server architecture which can be played in either singleplayer or co-op with fully synchronized animations and states across both clients.
 
 - This game was developed using Scala, ScalaFX and Akka WebSocket.
 - All illustrations were designed using Adobe Illustrator.
